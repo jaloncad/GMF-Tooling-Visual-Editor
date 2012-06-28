@@ -73,7 +73,7 @@
 				<executions>
 					<execution>
 						<id>upload-repository-data</id>
-						<phase>deploy</phase>
+						<phase>install</phase>
 						<goals>
 							<goal>upload</goal>
 						</goals>
