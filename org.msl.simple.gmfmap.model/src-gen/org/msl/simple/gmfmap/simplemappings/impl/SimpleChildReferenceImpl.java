@@ -202,5 +202,7 @@ public class SimpleChildReferenceImpl extends SimpleNodeReferenceImpl implements
 		}
 		return super.eDerivedStructuralFeatureID(baseFeatureID, baseClass);
 	}
+	
+	private void test(){}
 
 } //SimpleChildReferenceImpl
